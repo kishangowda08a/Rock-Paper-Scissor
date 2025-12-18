@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor
-Rock Paper Scissior using basic JavaScript, Html and CSS
+Rock Paper Scissor using basic JavaScript, Html and CSS
